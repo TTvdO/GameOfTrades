@@ -13,10 +13,7 @@ import io.gameoftrades.student23.kaart.PadImpl;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
-/**
- *
- * @author Tim
- */
+
 public class BFS implements SnelstePadAlgoritme, Debuggable{
 
     private LinkedList<Coordinaat> unvisited;

@@ -14,10 +14,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- *
- * @author Tim
- */
 public class Greedy implements StedenTourAlgoritme, Debuggable{
 
     private List<Coordinaat> cities;
