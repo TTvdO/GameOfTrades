@@ -1,15 +1,16 @@
-Project in which a custom library was handed to us. We had to:
+Project waarin er een custom library aan ons gegeven werd. We moesten:
 
--load in a map with terrain, cities and markets based on a text file.
+-Een map inladen met terrein, steden en markten op basis van een text file.
 
--use algorithms to get from point A to B as fast as possible, accounting for moving slower through different terrains.
+-Algoritmes gebruiken om zo snel mogelijk van punt A naar B te gaan, rekening houdend met verschillende terreinen en hoeveel bewegingspunten deze terreinen kosten om doorheen te bewegen.
 
--use algorithms to calculate the fastest route to visit all the other cities just once from a specific starting city.
+-Algoritmes gebruiken om de snelste route te berekenen om alle steden 1 keer te bezoeken vanuit een bepaalde stad als startpunt.
 
--think of an algorithm yourself to get the best profit with certain amount of movement points and gold available to you. This is based on the markets which are located in the cities which have different items that are bought and sold for different prices and quantities.
+-Een eigen algoritme verzinnen om de beste winst te krijgen met een bepaald aantal bewegegingspunten en goud die je krijgt aan het begin van de ronde. De winst kan gemaakt worden doordat er in elke stad een markt aanwezig is met items die je kan kopen en verkopen voor bepaalde prijzen en hoeveelheden.
 
 
-The README file which was given to us at the start of the project:
+De README die bij aan het begin van dit project aan ons werd gegeven:
+
 # Game of Trades Student Kit
 
 Game of Trades stelt je in staat om op visuele en spelende wijze kennis te maken met algoritmen.  
